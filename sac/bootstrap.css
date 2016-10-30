@@ -6777,6 +6777,8 @@ button.close {
 .navbar-brand #dw__logo {
   height: auto;
   width: 64px;
+  margin-top: 0px;
+  margin-right: 0px;
 }
 .navbar-brand #dw__title {
   display: none;
