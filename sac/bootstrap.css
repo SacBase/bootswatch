@@ -6772,6 +6772,14 @@ button.close {
   font-size: inherit;
   font-weight: 700;
   text-transform: uppercase;
+  padding: 15px;
+}
+.navbar-brand #dw__logo {
+  height: auto;
+  width: 64px;
+}
+.navbar-brand #dw__title {
+  display: none;
 }
 .has-warning .help-block,
 .has-warning .control-label,
